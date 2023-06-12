@@ -2,7 +2,7 @@
     "name": "myproject",
     "main": "index.js",
     "dependencies": {
-        "@pulumi/pulumi": "^3.66.0",
+        "@pulumi/pulumi": "^3.70.0",
         "@pulumi/aws": "^4.38.1",
         "@pulumi/awsx": "^1.0.2"
     }
